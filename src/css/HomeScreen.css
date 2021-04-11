@@ -1,0 +1,9 @@
+.container {
+    height: 100vh;
+    text-align: center;
+    padding-top: 20%;
+}
+
+body {
+  background-color: rgb(201, 193, 193);
+}

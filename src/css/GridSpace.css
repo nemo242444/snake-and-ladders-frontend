@@ -1,0 +1,8 @@
+.space {
+    border: 1px solid black;
+    width: 75px;
+    height: 75px;
+    float: left;
+    display: flex;
+    justify-content: flex-start;
+}
